@@ -2,7 +2,11 @@
 
 An endless stockyard runner starring the Get Moovin' bull. Built for Godot 4.7 (GL Compatibility renderer).
 
-Open the folder in Godot (Import → select `project.godot`) and press **F5**.
+**Play on Windows:** download `GetMoovin-v1.0.0-windows-x64.zip` from the [latest release](https://github.com/mrkaras/get-moovin/releases/latest), unzip it, and run `GetMoovin.exe`.
+
+**Run from source:** open the folder in Godot 4.7 (Import → select `project.godot`) and press **F5**.
+
+**Export a build:** `export_presets.cfg` has a "Windows Desktop" preset that writes `build/windows/GetMoovin.exe`. It needs the Godot 4.7.2 mono export templates installed.
 
 ## Controls
 

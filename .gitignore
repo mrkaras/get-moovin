@@ -11,3 +11,6 @@ mono_crash.*.json
 # Rendered video (published as a release asset instead)
 promo/*.avi
 promo/*.mp4
+
+# Exported builds
+build/
