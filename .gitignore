@@ -1,0 +1,13 @@
+# Godot
+.godot/
+.import/
+export.cfg
+export_credentials.cfg
+*.translation
+.mono/
+data_*/
+mono_crash.*.json
+
+# Rendered video (published as a release asset instead)
+promo/*.avi
+promo/*.mp4
